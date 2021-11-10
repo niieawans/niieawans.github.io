@@ -1,0 +1,23 @@
+body{
+    background-color: #39e09b ;
+}
+h1{
+    font-family: 'Times New Roman';
+    color: white;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.lp{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    max-width: 460px;
+}
+.il{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    max-width: 460px;
+}
